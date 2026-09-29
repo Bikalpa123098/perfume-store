@@ -1,0 +1,1 @@
+{"name":"sugandha-perfume-store","version":"1.0.0","type":"module","scripts":{"dev":"vite","build":"vite build","server":"node server/server.js"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","express":"latest","cors":"latest"},"devDependencies":{}}
